@@ -1,0 +1,4 @@
+baseURL = "https://forkeep.github.io/"
+languageCode = "zh-Hans"
+title = "你好，李哲"
+theme = "spectre-pixel"
