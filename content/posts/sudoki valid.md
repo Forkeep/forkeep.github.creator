@@ -1,5 +1,5 @@
 ---
-title: "Valid Sudoku"
+title: "算法-Valid Sudoku"
 date: 2020-03-18T16:25:47+08:00
 draft: true
 ---
